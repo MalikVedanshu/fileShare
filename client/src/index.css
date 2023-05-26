@@ -1,0 +1,15 @@
+.filesTable {
+    display: grid;
+    
+}
+.filesTable input {
+    margin: 3px;
+    width: 100%;
+}
+.center {
+    margin: auto;
+    width: 90%;
+    border: 1px solid green;
+    border-radius: 7px;
+    padding: 10px;
+}
